@@ -1,1 +1,10 @@
+This project presents a contagion simulation of the COVID-19 virus by its diverse variants.
 
+In order to use the system, the user need to upload the settlement list that describe the map
+The user can apload the "SettlementList" txt file.
+After that the map is loading and the user can watch the simulation and the settlements's rank by color: green, yellow, orange and red
+by the color we can infer the condition of the settlements and the percet of sick people.
+by click "simulation" in menu-bar and "play" bottun we can watch the simulatiton and look at the information in the "Statistic Window".
+Also, we can control the speed simulation.
+
+Used: Java programming language, GUI, multi-threading 
